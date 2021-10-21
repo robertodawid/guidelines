@@ -2,8 +2,8 @@
 layout: post
 title:  "Publishing a dataset on Zenodo"
 date:   2021-10-21 11:28:25 +0200
-categories: guideline
-tags: data zenodo
+categories: data
+tags: zenodo
 ---
 
 In this guideline, we describe why and how to publish a dataset on Zenodo. Before publishing your dataset, you may wish to read our guidelines on [organising] your dataset.
@@ -42,3 +42,4 @@ Upload your content [here](https://zenodo.org/deposit/new?c=ccg) to ensure your 
 [presentation]: https://zenodo.org/record/802100##.YXE4mNlBzUI
 [Google Data]: https://datasetsearch.research.google.com/
 [organising]: {% post_url 2021-10-21-organising-data %}
+[licensing]: {% post_url 2021-10-21-licensing-data %}
