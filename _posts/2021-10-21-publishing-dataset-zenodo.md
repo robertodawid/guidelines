@@ -6,7 +6,7 @@ categories: data
 tags: zenodo
 ---
 
-In this guideline, we describe why and how to publish a dataset on Zenodo. Before publishing your dataset, you may wish to read our guidelines on [organising] your dataset.
+In this guideline, we describe why and how to publish a dataset on Zenodo. Before publishing your dataset, you may wish to read our guidelines on [organising] and [licensing] your dataset.
 
 ## What is Zenodo?
 
@@ -42,4 +42,4 @@ Upload your content [here](https://zenodo.org/deposit/new?c=ccg) to ensure your 
 [presentation]: https://zenodo.org/record/802100##.YXE4mNlBzUI
 [Google Data]: https://datasetsearch.research.google.com/
 [organising]: {% post_url 2021-10-21-organising-data %}
-[licensing]: {% post_url 2021-10-21-licensing-data %}
+[licensing]: {% post_url 2021-10-01-licensing-data %}
