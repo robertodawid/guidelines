@@ -14,7 +14,7 @@ Policy briefs are meant to be short and accessible knowledge outputs that conden
 
 * In CCG we aim at publishing one policy brief for every scientific paper and to make it available before the scientific paper is published
 * Policy briefs are to be published by the authors (upon final approval) on ResearchSquare (or another pre-print server with at least equivalent features)
-* Policy briefs shall be published under open access licenses (e.g. CC BY 4.0). For how to choose a license, see [licenses]
+* Policy briefs shall be published under open access licenses (e.g. CC-BY-4.0). For how to choose a license, see [licenses]
 * All briefs will undergo a peer-review process before publication
 * The structure and review workflow outlined below will apply
 
