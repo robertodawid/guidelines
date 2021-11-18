@@ -2,7 +2,7 @@
 layout: post
 title:  "Publishing a dataset on Zenodo"
 date:   2021-10-21 11:28:25 +0200
-categories: data
+category: data
 tags: zenodo
 ---
 

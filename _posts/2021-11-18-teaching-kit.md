@@ -2,7 +2,7 @@
 layout: post
 title:  "Developing teaching material"
 date:   2021-11-18 14:30:00 +0200
-categories: knowledge
+category: knowledge
 tags: teaching
 ---
 

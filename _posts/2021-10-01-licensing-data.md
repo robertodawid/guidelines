@@ -2,7 +2,7 @@
 layout: post
 title:  "Choosing an open license for a dataset"
 date:   2021-10-01 15:56:25 +0200
-categories: data
+category: data
 tags: license
 ---
 

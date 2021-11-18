@@ -2,7 +2,7 @@
 layout: post
 title:  "Structuring a lecture for existing courses"
 date:   2021-11-06 10:30:00 +0200
-categories: knowledge
+category: knowledge
 tags: teaching
 ---
 

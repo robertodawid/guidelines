@@ -30,4 +30,4 @@ theme: minima
 plugins:
   - jekyll-feed
 
-permalink: /:categories/:year/:month/:day/:title:output_ext
+permalink: /:category/:year/:month/:day/:title:output_ext
