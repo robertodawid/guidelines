@@ -18,8 +18,8 @@ email: curation@climatecompatiblegrowth.com
 description: >- # this means to ignore newlines until "baseurl:"
   Curation guidelines to support researchers, analysts, modellers and policy makers
   in the application of u4RIA and the Round Table Principles to energy planning
-baseurl: "guidelines" # the subpath of your site, e.g. /blog
-url: "https://climatecompatiblegrowth.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://climatecompatiblegrowth.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ResearchCCG
 github_username:  climatecompatiblegrowth
 
@@ -28,6 +28,16 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+
+minima:
+  skin: dark
+
+permalink: /:categories/:year/:month/:day/:title:output_ext
+
+# collections:
+#   guideline:
+#     output: true
+#     permalink: /:collection/:name
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
