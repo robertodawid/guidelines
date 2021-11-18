@@ -12,7 +12,24 @@ tags: teaching
 * For each Learning Kit, all the material for the Theory Lectures, the Hands-on exercise and the Tutorial should be written using Markdown. Documentation and syntax of Markdown available here [markdown]
 * A standard folder structure is used to store the course material on GitHub, as per image below
 
-![Folder structure](Folder_structure.png)
+```
+├── LICENSE
+├── README.md
+├── block_1
+│   ├── lecture_1.md
+│   ├── lecture_2.md
+│   ├── lecture_...
+│   ├── absorption.md
+│   └── quiz_1.md
+├── block_2
+│   ├── lecture_1.md
+│   ├── lecture_2.md
+│   ├── absorption.md
+│   └── quiz_1.md
+├── block_...
+├── tutorials.md
+└── exercises.md
+```
 
 ## Description of the folder structure
 
