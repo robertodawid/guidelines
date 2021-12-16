@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Adding zenodo metadata to a Github repository"
+title:  "Add zenodo metadata to a Github repository"
 date:   2021-12-16
 comments: true
 author: Will Usher

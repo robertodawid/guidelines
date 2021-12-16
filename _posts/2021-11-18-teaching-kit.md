@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Developing teaching material"
+title:  "Develop teaching material"
 date:   2021-11-18 14:30:00 +0200
 author: Francesco Gardumi
 category: knowledge

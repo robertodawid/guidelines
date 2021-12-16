@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Structuring a lecture for existing courses"
+title:  "Structure a lecture for existing courses"
 date:   2021-11-06
 author: Francesco Gardumi
 category: knowledge

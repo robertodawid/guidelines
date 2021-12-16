@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Standards for a policy brief"
+title:  "Develop a policy brief"
 date:   2021-11-18 10:30:00 +0200
 author: Francesco Gardumi
 category: knowledge
