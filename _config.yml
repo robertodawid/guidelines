@@ -23,6 +23,8 @@ domain: climatecompatiblegrowth.github.io
 url: "https://climatecompatiblegrowth.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ResearchCCG
 github_username:  climatecompatiblegrowth
+disqus:
+    shortname: https-climatecompatiblegrowth-github-io-guidelines
 
 # Build settings
 markdown: kramdown
