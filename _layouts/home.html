@@ -9,19 +9,6 @@ layout: default
 
   {{ content }}
 
-  {%- if site.posts.size > 0 -%}
-    {% assign mydocs = site.posts | group_by: 'category' %}
-    {% for cat in mydocs %}
-    <h2>{{ cat.name | capitalize }}</h2>
-        <ul>
-          {% assign items = cat.items | sort: 'order' %}
-          {% for item in items %}
-            <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
-          {% endfor %}
-        </ul>
-    {% endfor %}
-  {%- endif -%}
-
 </div>
 
 

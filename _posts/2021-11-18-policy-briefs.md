@@ -3,7 +3,7 @@ layout: post
 title:  "Standards for a policy brief"
 date:   2021-11-18 10:30:00 +0200
 category: knowledge
-tags: policy
+tags:
 ---
 
 # Policy briefs
