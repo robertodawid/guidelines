@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Archiving code using Github and Zenodo"
-date:   2021-10-21 14:59:25 +0200
+date:   2021-10-21
+authur:
 category: code
 tags: retrievability
 ---

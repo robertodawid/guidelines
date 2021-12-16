@@ -2,6 +2,7 @@
 layout: post
 title:  "Adding zenodo metadata to a Github repository"
 date:   2021-12-16 11:17:25 +0000
+author: Will Usher
 category: code
 tags: interoperability reusability retrievability
 ---

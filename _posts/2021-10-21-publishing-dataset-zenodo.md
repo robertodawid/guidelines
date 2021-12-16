@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  "Publishing a dataset on Zenodo"
-date:   2021-10-21 11:28:25 +0200
+author: Will Usher
+date:   2021-10-21
 category: data
 tags: retrievability
 ---
 
-In this guideline, we describe why and how to publish a dataset on Zenodo. Before publishing your dataset, you may wish to read our guidelines on [organising] and [licensing] your dataset.
+We describe why and how to publish a dataset on Zenodo. Before publishing your dataset, you may wish to read our guidelines on [organising] and [licensing] your dataset.
 
 ## What is Zenodo?
 

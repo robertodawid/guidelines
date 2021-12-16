@@ -2,6 +2,7 @@
 layout: post
 title:  "Preparing the general course information"
 date:   2021-11-09 18:10:00 +0200
+author: Francesco Gardumi
 category: knowledge
 tags:
 ---

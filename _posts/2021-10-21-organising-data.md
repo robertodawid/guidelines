@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Organising a dataset"
-date:   2021-10-21 12:10:25 +0200
+date:   2021-10-21
+author:
 category: data
 tags: retrievability repeatability
 ---
