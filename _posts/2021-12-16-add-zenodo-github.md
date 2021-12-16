@@ -41,4 +41,5 @@ the Zenodo deposit associated with the release.
 More information on the fields you can include can be found in the Zenodo
 [documentation](https://developers.zenodo.org/#representation).
 
-
+You can verify your JSON metadata file with the
+[Zenodo JSON schema](https://zenodo.org/schemas/deposits/records/legacyrecord.json)
