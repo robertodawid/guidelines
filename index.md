@@ -11,7 +11,7 @@ open science.
 
 # u4RIA
 
-The u4RIA [goals]({% post_url 2021-12-16-u4ria %}}),
+The u4RIA [goals]({% post_url 2021-12-16-u4ria %}),
 provide a set of high-level goals relating to conducting
 open and accessible energy system analyses in countries.
 
