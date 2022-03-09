@@ -38,13 +38,17 @@ A few web platforms exist that provide detailed lists of open-source licenses av
 
 
 ## Open access licenses
+Open access licenses are targeted towards a wide variety of knowledge formats, covering data, scientific publications, websites, presentations, simple images, etc.
+The term ‘open access’ refers particularly to freely available literature, mainly accessible online, that allow people to [“read, download, copy, distribute, print, search, or link to the full texts of these articles, crawl them for indexing, pass them as data to software, or use them for any other lawful purpose, without financial, legal, or technical barriers other than those inseparable from gaining access to the internet itself.”][5] The aim of the open access license is to remove all contraints over the reproduction and distribution of knwoledge outputs except for the copyright, thus ensuring the authors' right to be acknowledged and cited.
 
+The most commonly used open access licenses are all provided by the [Creative Commons](<https://creativecommons.org/>) organization, and vary in the degree of openness they guarantee.
 
 ### Creative Commons (CC) licenses
+Creative Commons (CC) licenses coonsist of six different licenses that define more or less permissive rules for the reproduction and distribution of the licensed output. A complete list of the CC licenses available and their related characteristics is available on the [Creative Commons website][6]
+
+The [Creative Commons License Chooser][7] then, provides a simple tool to guide you in selecting the most appropriate CC license for your knwoledge output, based on the most relevant feature of your choice.
 
 
-
-</div>
 
 [1]: <https://opensource.org/licenses> "Opensource.org, 2021. Licenses & Standards, *Open Source Initiative*. Available at: https://opensource.org/licenses (accessed Dec. 02, 2021)."
 
@@ -53,3 +57,10 @@ A few web platforms exist that provide detailed lists of open-source licenses av
 [3]: <https://wiki.openmod-initiative.org/wiki/Choosing_a_license> "Openmod Initiative, 2021. Choosing a license, *wiki.openmod-initiative.org*. Available at: https://wiki.openmod-initiative.org/wiki/Choosing_a_license (accessed Dec. 02, 1090 2021)."
 
 [4]: <https://choosealicense.com/> "GitHub, Inc. Choose an open source license, *Choosealicense.com*. Available at: https://choosealicense.com/ (accessed Dec. 02, 2021)." 
+[5]: <> "Chan, L., Cuplinska, D., Eisen, M., Friend, F., Genova, Y., Guedon, J.C., Hagemann, M., Harnad, S., Johnson, R., Kupryte, R., La Manna, M., Rev, I., Segbert, M., de Souza, S., Suber, P., Velterop, J., 2022. Budapest Open Access Initiative (BOAI), *Budapest Open Access Initiative*. Available at: https://www.budapestopenaccessinitiative.org/read/ (accessed Dec. 03, 2021)"
+ 
+[6]:<https://creativecommons.org/about/cclicenses/> "Creative Commons. About CC Licenses, *Creative Commons*. Available at: https://creativecommons.org/about/cclicenses/ (accessed Dec. 02, 2021)."
+
+[7]: <https://creativecommons.org/choose/> "Creative Commons. Choose a License, *Creative Commons*. Available at: https://creativecommons.org/choose/ (accessed Dec. 03, 2021)."
+
+</div>
