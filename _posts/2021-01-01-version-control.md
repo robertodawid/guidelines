@@ -9,16 +9,21 @@ tags: ubuntu retrievability repeatability reusability reconstructability auditab
 ---
 
 Version Control Systems (VCS), such as Git, Mecurial and Subversion
-provide the ability to record a history of changes to source code, data,
- or other text-based material,
- and then switch between these points in the history
- or view the differences between them.
- In short, version control provides "infinite levels of undo".
+provide the ability to record a history of changes
+to source code, data, or other text-based material.
+VCS allows researchers t oswitch between these points in the history,
+view the differences between them,
+and create new modifications from any point in the history.
+In short, version control provides "infinite levels of undo".
+
+The history of changes are stored in a "repository".
+A repository can be navigated using a command-line tool,
+or a graphical-user interface.
 
 Version control enables collaborative workflows
 in either a centralised or distributed fashion,
 which can effectively support scientific work.
-Because each change to tracked content is recorded,
+Because each change (or "commit") to tracked content is recorded with associated metadata that records the time, date, author, and a commit message,
 conflicts between changes can be resolved in a systematic fashion.
 This gives collaborators the freedom to make changes as they want,
 and then merge their changes when they are ready.
@@ -30,7 +35,11 @@ For example, messages associated with changes to the code ["commits"]
 provide a running commentary on the development of the work itself.
 Version control allows entire repositories to be easily shared,
 facilitating the publishing of the work online,
-through websites such as Github and Gitlab [37].
+through websites such as Github and Gitlab.
+
+To learn version control, there are many online courses available.
+[Coderefinery][7] provide an [Intro to Git][8].
+[Software Carpentry][9] also have a similar course [Version Control with Git][10]
 
 # Applying version control to software
 
@@ -67,6 +76,13 @@ projects.
 
 # Applying version control to other material
 
+Version control can be applied to any text-based material.
+A version control *repository* could contain a mixture of material including computer code, data and documentation.
+
+In computational research, it is common to use version control systems to enable collaboration across large distributed teams of scientists.
+
+---
+
 This material is derived from the [CCG review of good enough practices][1] which is released under a [CC-BY 4.0 license][2].
 
 [1]: https://doi.org/10.5281/zenodo.5911546 "Usher, William, Beltramo, Agnese, Gardumi, Francesco, Martin, Viktoria, & Petrarulo, Luca. (2022). CCG Platform - Body of Knowledge: Review of Good Practice (1.3). Zenodo. https://doi.org/10.5281/zenodo.5911546"
@@ -80,3 +96,11 @@ This material is derived from the [CCG review of good enough practices][1] which
 [5]: https://git-lfs.github.com/ "Git Large-File-System"
 
 [6]: https://dvc.org/ "DVC"
+
+[7]: https://coderefinery.org "CodeRefinery"
+
+[8]: https://coderefinery.org/git-intro/ "Intro to Git"
+
+[9]: https://software-carpentry.org/ "Software Carpentry"
+
+[10]: http://swcarpentry.github.io/git-novice "Version Control with Git"
