@@ -37,10 +37,6 @@ Version control allows entire repositories to be easily shared,
 facilitating the publishing of the work online,
 through websites such as Github and Gitlab.
 
-To learn version control, there are many online courses available.
-[Coderefinery][7] provide an [Intro to Git][8].
-[Software Carpentry][9] also have a similar course [Version Control with Git][10]
-
 # Applying version control to software
 
 Version Control is now seen as a cornerstone of reproducible computational research.
@@ -77,9 +73,15 @@ projects.
 # Applying version control to other material
 
 Version control can be applied to any text-based material.
-A version control *repository* could contain a mixture of material including computer code, data and documentation.
+A version control *repository* can contain a mixture of text-based material including computer code, data and documentation. For example, some researchers use version control to facilitate collaboration on journal articles.
 
-In computational research, it is common to use version control systems to enable collaboration across large distributed teams of scientists.
+# Further Reading and Next Steps
+
+[The Turing Way](https://the-turing-way.netlify.app/welcome.html) has a section on version control.
+To learn version control, there are many online courses available.
+[Coderefinery][7] provide an ["Intro to Git"][8].
+[Software Carpentry][9] also have a similar course ["Version Control with Git"][10].
+Their materials are free to view and use, and they also run in-person and remote training.
 
 ---
 
