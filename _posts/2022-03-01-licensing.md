@@ -7,7 +7,6 @@ category: Open Science
 tags: licensing, practice
 ---
 
-<div style="text-align: justify">
 
 Licensing is an important part of any output release. Once a new piece of work is ready to be made available to the wider audience, adding a license to it constitutes a good practice that helps clarifying what are the rights and duties that regulate the use of such work by other parties. 
 
@@ -49,6 +48,23 @@ Creative Commons (CC) licenses coonsist of six different licenses that define mo
 The [Creative Commons License Chooser][7] then, provides a simple tool to guide you in selecting the most appropriate CC license for your knwoledge output, based on the most relevant feature of your choice.
 
 
+# Useful resources
+From [*The Turing Way*](https://the-turing-way.netlify.app/welcome.html) handbook to reproducible, ethical and collaborative data science:
+- Section on [**licensing**](https://the-turing-way.netlify.app/reproducible-research/licensing.html)
+   - for [*software*](https://the-turing-way.netlify.app/reproducible-research/licensing/licensing-software.html)
+   - for [*data*](https://the-turing-way.netlify.app/reproducible-research/licensing/licensing-data.html)
+
+From the [u4RIA Modelling for Policy Support](https://forum.u4ria.org/t/how-to-open-license-teaching-materials/24) forum:
+- How to open license [**data**](https://forum.u4ria.org/t/how-to-open-license-data/22)
+- How to open license [**computer code**](https://forum.u4ria.org/t/how-to-open-license-computer-code/23)
+- How to open license [**teaching materials**](https://forum.u4ria.org/t/how-to-open-license-teaching-materials/24)
+
+
+
+
+---------
+*This material is derived from the [CCG review of good enough practices][8], released under a [CC-BY 4.0 license][9].*
+
 
 [1]: <https://opensource.org/licenses> "Opensource.org, 2021. Licenses & Standards, *Open Source Initiative*. Available at: https://opensource.org/licenses (accessed Dec. 02, 2021)."
 
@@ -63,4 +79,6 @@ The [Creative Commons License Chooser][7] then, provides a simple tool to guide 
 
 [7]: <https://creativecommons.org/choose/> "Creative Commons. Choose a License, *Creative Commons*. Available at: https://creativecommons.org/choose/ (accessed Dec. 03, 2021)."
 
-</div>
+[8]: https://doi.org/10.5281/zenodo.5911546 "Usher, William, Beltramo, Agnese, Gardumi, Francesco, Martin, Viktoria, & Petrarulo, Luca. (2022). CCG Platform - Body of Knowledge: Review of Good Practice (1.3). Zenodo. https://doi.org/10.5281/zenodo.5911546"
+
+[9]: https://creativecommons.org/licenses/by/4.0/legalcode
