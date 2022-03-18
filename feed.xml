@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://climatecompatiblegrowth.github.io/guidelines/feed.xml" rel="self" type="application/atom+xml" /><link href="https://climatecompatiblegrowth.github.io/guidelines/" rel="alternate" type="text/html" /><updated>2022-03-18T09:42:54+00:00</updated><id>https://climatecompatiblegrowth.github.io/guidelines/feed.xml</id><title type="html">Climate Compatible Growth Curation Guidelines</title><subtitle>Curation guidelines to support researchers, analysts, modellers and policy makers in the application of u4RIA and the Round Table Principles to energy planning</subtitle><entry><title type="html">Licensing</title><link href="https://climatecompatiblegrowth.github.io/guidelines/open%20science/2022/03/01/licensing.html" rel="alternate" type="text/html" title="Licensing" /><published>2022-03-01T00:00:00+00:00</published><updated>2022-03-01T00:00:00+00:00</updated><id>https://climatecompatiblegrowth.github.io/guidelines/open%20science/2022/03/01/licensing</id><content type="html" xml:base="https://climatecompatiblegrowth.github.io/guidelines/open%20science/2022/03/01/licensing.html">&lt;p&gt;Licensing is an important part of any output release. Once a new piece of work is ready to be made available to the wider audience, adding a license to it constitutes a good practice that helps clarifying what are the rights and duties that regulate the use of such work by other parties.&lt;/p&gt;
+
+&lt;p&gt;Within the context of open science, the aim is to allow broad access and reuse of the research outputs produced. Thus, licensing should contribute to ensuring as much openness, transparency and accessibility as possible.&lt;/p&gt;
+
+&lt;p&gt;Each license differs in the conditions it sets on the possibility of using the licensed work for new projects and research. These conditions can include, for instance: how to correctly attribute the original authors of the work, if the work can be modified and re-used for a new (derived) work, how the derived work should be licensed, etc.&lt;/p&gt;
+
+&lt;p&gt;There exist mainly two different classes of licenses, each of them applicable to a specifici type of work: &lt;a href=&quot;#open-source-licenses&quot;&gt;open-scource licenses&lt;/a&gt; usually applie to tools or software codes, while &lt;a href=&quot;#open-access-licenses&quot;&gt;open access licenses&lt;/a&gt; apply to data, images and more generically knowledge content.&lt;/p&gt;
+
+&lt;h2 id=&quot;open-source-licenses&quot;&gt;Open-source Licenses&lt;/h2&gt;
+&lt;p&gt;Open-source licenses are commonly characterised by allowing software &lt;a href=&quot;https://opensource.org/licenses&quot; title=&quot;Opensource.org, 2021. Licenses &amp;amp; Standards, *Open Source Initiative*. Available at: https://opensource.org/licenses (accessed Dec. 02, 2021).&quot;&gt;“to be freely used, modified, and shared”&lt;/a&gt;. There exsist &lt;a href=&quot;https://ieeexplore.ieee.org/document/5370763&quot; title=&quot;Engelfriet, A., 2010. Choosing an Open Source License, *IEEE Software*, vol. 27, no. 1, pp. 48–49. DOI: 10.1109/MS.2010.5&quot;&gt;three main categories of open-source licenses&lt;/a&gt;:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;em&gt;Free-for-all licenses (permissive)&lt;/em&gt;&lt;/strong&gt;
+This type of licenses require to acknowledge the original author(s) of the licensed work in any derivative work. However, it allows derivative works to be then published under a different type of license, and/or made proprietary.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;em&gt;Keep-open licenses&lt;/em&gt;&lt;/strong&gt;
+This type of licenses require for the derivative work to be also released under open license. However, the derivative work (e.g. a software product) could then be included as one part of a larger proprietary work.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;em&gt;Share-alike (copyleft) licenses&lt;/em&gt;&lt;/strong&gt;
+This type of licenses require that, if the licensed work is included in larger work or project, the entire work should be released open-source.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;A few web platforms exist that provide detailed lists of open-source licenses available and related characteristics. Also, simple online tools have been created to guide you in selecting the most approrpiate open-source license based on specific needs:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The Openmod Initiative &lt;a href=&quot;https://wiki.openmod-initiative.org/wiki/Choosing_a_license&quot; title=&quot;Openmod Initiative, 2021. Choosing a license, *wiki.openmod-initiative.org*. Available at: https://wiki.openmod-initiative.org/wiki/Choosing_a_license (accessed Dec. 02, 1090 2021).&quot;&gt;&lt;em&gt;Choosing a license&lt;/em&gt;&lt;/a&gt; page provides a complete overview of what should be considered when choosing an open-source license and what are the main options available&lt;/li&gt;
+  &lt;li&gt;The &lt;a href=&quot;https://opensource.org/licenses&quot; title=&quot;Opensource.org, 2021. Licenses &amp;amp; Standards, *Open Source Initiative*. Available at: https://opensource.org/licenses (accessed Dec. 02, 2021).&quot;&gt;&lt;em&gt;Open Source Initiative&lt;/em&gt;&lt;/a&gt; also provides a comprehensive overview of open-source licenses and standards available, with a selection of the most popular ones.&lt;/li&gt;
+  &lt;li&gt;GitHub, via &lt;a href=&quot;https://choosealicense.com/&quot; title=&quot;GitHub, Inc. Choose an open source license, *Choosealicense.com*. Available at: https://choosealicense.com/ (accessed Dec. 02, 2021).&quot;&gt;&lt;em&gt;Choosealicense.com&lt;/em&gt;&lt;/a&gt;, finally provides a simple tool that, by asking few questions on the intended aim and scope of the work, suggests the most appropriate open-source license to be used.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;open-access-licenses&quot;&gt;Open access licenses&lt;/h2&gt;
+&lt;p&gt;Open access licenses are targeted towards a wide variety of knowledge formats, covering data, scientific publications, websites, presentations, simple images, etc.
+The term ‘open access’ refers particularly to freely available literature, mainly accessible online, that allow people to &lt;a href=&quot;https://www.budapestopenaccessinitiative.org/read/&quot; title=&quot;Chan, L., Cuplinska, D., Eisen, M., Friend, F., Genova, Y., Guedon, J.C., Hagemann, M., Harnad, S., Johnson, R., Kupryte, R., La Manna, M., Rev, I., Segbert, M., de Souza, S., Suber, P., Velterop, J., 2022. Budapest Open Access Initiative (BOAI), *Budapest Open Access Initiative*. Available at: https://www.budapestopenaccessinitiative.org/read/ (accessed Dec. 03, 2021)&quot;&gt;“read, download, copy, distribute, print, search, or link to the full texts of these articles, crawl them for indexing, pass them as data to software, or use them for any other lawful purpose, without financial, legal, or technical barriers other than those inseparable from gaining access to the internet itself.”&lt;/a&gt; The aim of the open access license is to remove all contraints over the reproduction and distribution of knwoledge outputs except for the copyright, thus ensuring the authors’ right to be acknowledged and cited.&lt;/p&gt;
+
+&lt;p&gt;The most commonly used open access licenses are all provided by the &lt;a href=&quot;https://creativecommons.org/&quot;&gt;Creative Commons&lt;/a&gt; organization, and vary in the degree of openness they guarantee.&lt;/p&gt;
+
+&lt;h3 id=&quot;creative-commons-cc-licenses&quot;&gt;Creative Commons (CC) licenses&lt;/h3&gt;
+&lt;p&gt;Creative Commons (CC) licenses coonsist of six different licenses that define more or less permissive rules for the reproduction and distribution of the licensed output. A complete list of the CC licenses available and their related characteristics is available on the &lt;a href=&quot;https://creativecommons.org/about/cclicenses/&quot; title=&quot;Creative Commons. About CC Licenses, *Creative Commons*. Available at: https://creativecommons.org/about/cclicenses/ (accessed Dec. 02, 2021).&quot;&gt;Creative Commons website&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://creativecommons.org/choose/&quot; title=&quot;Creative Commons. Choose a License, *Creative Commons*. Available at: https://creativecommons.org/choose/ (accessed Dec. 03, 2021).&quot;&gt;Creative Commons License Chooser&lt;/a&gt; then, provides a simple tool to guide you in selecting the most appropriate CC license for your knwoledge output, based on the most relevant feature of your choice.&lt;/p&gt;
+
+&lt;h1 id=&quot;useful-resources&quot;&gt;Useful resources&lt;/h1&gt;
+&lt;p&gt;From &lt;a href=&quot;https://the-turing-way.netlify.app/welcome.html&quot;&gt;&lt;em&gt;The Turing Way&lt;/em&gt;&lt;/a&gt; handbook to reproducible, ethical and collaborative data science:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Section on &lt;a href=&quot;https://the-turing-way.netlify.app/reproducible-research/licensing.html&quot;&gt;&lt;strong&gt;licensing&lt;/strong&gt;&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;for &lt;a href=&quot;https://the-turing-way.netlify.app/reproducible-research/licensing/licensing-software.html&quot;&gt;&lt;em&gt;software&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;for &lt;a href=&quot;https://the-turing-way.netlify.app/reproducible-research/licensing/licensing-data.html&quot;&gt;&lt;em&gt;data&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;From the &lt;a href=&quot;https://forum.u4ria.org/t/how-to-open-license-teaching-materials/24&quot;&gt;u4RIA Modelling for Policy Support&lt;/a&gt; forum:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;How to open license &lt;a href=&quot;https://forum.u4ria.org/t/how-to-open-license-data/22&quot;&gt;&lt;strong&gt;data&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How to open license &lt;a href=&quot;https://forum.u4ria.org/t/how-to-open-license-computer-code/23&quot;&gt;&lt;strong&gt;computer code&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How to open license &lt;a href=&quot;https://forum.u4ria.org/t/how-to-open-license-teaching-materials/24&quot;&gt;&lt;strong&gt;teaching materials&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;This material is derived from the &lt;a href=&quot;https://doi.org/10.5281/zenodo.5911546&quot; title=&quot;Usher, William, Beltramo, Agnese, Gardumi, Francesco, Martin, Viktoria, &amp;amp; Petrarulo, Luca. (2022). CCG Platform - Body of Knowledge: Review of Good Practice (1.3). Zenodo. https://doi.org/10.5281/zenodo.5911546&quot;&gt;CCG review of good enough practices&lt;/a&gt;, released under a &lt;a href=&quot;https://creativecommons.org/licenses/by/4.0/legalcode&quot;&gt;CC-BY 4.0 license&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</content><author><name>Agnese Beltramo</name></author><category term="Open Science" /><category term="licensing," /><category term="practice" /><summary type="html">Licensing is an important part of any output release. Once a new piece of work is ready to be made available to the wider audience, adding a license to it constitutes a good practice that helps clarifying what are the rights and duties that regulate the use of such work by other parties.</summary></entry><entry><title type="html">Attribution</title><link href="https://climatecompatiblegrowth.github.io/guidelines/open%20science/2022/02/01/attribution.html" rel="alternate" type="text/html" title="Attribution" /><published>2022-02-01T00:00:00+00:00</published><updated>2022-02-01T00:00:00+00:00</updated><id>https://climatecompatiblegrowth.github.io/guidelines/open%20science/2022/02/01/attribution</id><content type="html" xml:base="https://climatecompatiblegrowth.github.io/guidelines/open%20science/2022/02/01/attribution.html">&lt;p&gt;More and more often, contemporary research is conducted by a number of young and senior researchers actively collaborating and contributing to a common project, answering an increasingly multidisplinary range of questions.&lt;/p&gt;
+
+&lt;p&gt;To ensure all the people involved in the research process are rightfully acknolwegded, the &lt;a href=&quot;https://www.elsevier.com/authors/policies-and-guidelines/credit-author-statement&quot;&gt;CRediT author statement&lt;/a&gt; was introduced in the scientific publishing process. The CRediT author statement relies on the &lt;a href=&quot;https://onlinelibrary.wiley.com/doi/10.1087/20150211&quot; title=&quot;Brand, A., Allen, L., Altman, M., Hlava, M., Scott, J., 2015. Beyond authorship: attribution, contribution, collaboration and credit. *Learned Publishing*, 28: 151–155. DOI:10.1087/20150211&quot;&gt;Contributor Roles Taxonomy&lt;/a&gt; to clearly define a wide range of roles to describe the personal contributions that a researcher might bring to a collaborative project. It also aims at providing a definition for what authorship should mean and acknowledge, in the case of scientific research, by broadening the concept to include all intellectual and practical contributors to the final output.&lt;/p&gt;
+
+&lt;p&gt;For each contributor, the following basic personal information should then be provided:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Name and Surname&lt;/li&gt;
+  &lt;li&gt;Affiliation&lt;/li&gt;
+  &lt;li&gt;Open Researcher and Contributor ID (&lt;a href=&quot;https://orcid.org/&quot;&gt;ORCiD&lt;/a&gt;]) code&lt;/li&gt;
+  &lt;li&gt;CRediT role&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://onlinelibrary.wiley.com/doi/10.1087/20150211&quot; title=&quot;Brand, A., Allen, L., Altman, M., Hlava, M., Scott, J., 2015. Beyond authorship: attribution, contribution, collaboration and credit. *Learned Publishing*, 28: 151–155. DOI:10.1087/20150211&quot;&gt;Brand et al. (2015)&lt;/a&gt; defined the &lt;a href=&quot;https://onlinelibrary.wiley.com/doi/10.1087/20150211&quot; title=&quot;Brand, A., Allen, L., Altman, M., Hlava, M., Scott, J., 2015. Beyond authorship: attribution, contribution, collaboration and credit. *Learned Publishing*, 28: 151–155. DOI:10.1087/20150211&quot;&gt;CRediT roles&lt;/a&gt; as follows:
+| Term | Definition|
+| :–: | :——– |
+| Conceptualization | Ideas; formulation or evolution of overarching research goals and aims|
+| Methodology | Development or design of methodology; creation of models|
+| Software | Programming, software development; designing computer programs; implementation of the computer code and supporting algorithms; testing of existing code components|
+| Validation | Verification, whether as a part of the activity or separate, of the overall replication/ reproducibility of results/experiments and other research outputs |
+| Formal analysis | Application of statistical, mathematical, computational, or other formal techniques to analyze or synthesize study data |
+| Investigation | Conducting a research and investigation process, specifically performing the experiments, or data/evidence collection |
+| Resources | Provision of study materials, reagents, materials, patients, laboratory samples, animals, instrumentation, computing resources, or other analysis tools |
+| Data Curation | Management activities to annotate (produce metadata), scrub data and maintain research data (including software code, where it is necessary for interpreting the data itself) for initial use and later reuse|
+| Writing - Original Draft | Preparation, creation and/or presentation of the published work, specifically writing the initial draft (including substantive translation) |
+| Writing - Review &amp;amp; Editing | Preparation, creation and/or presentation of the published work by those from the original research group, specifically critical review, commentary or revision – including pre-or postpublication stages |
+| Visualization | Preparation, creation and/or presentation of the published work, specifically visualization/ data presentation | 
+| Supervision | Oversight and leadership responsibility for the research activity planning and execution, including mentorship external to the core team |
+| Project administration | Management and coordination responsibility for the research activity planning and execution |
+| Funding acquisition | Acquisition of the financial support for the project leading to this publication |&lt;/p&gt;
+
+&lt;h1 id=&quot;useful-resources&quot;&gt;Useful resources&lt;/h1&gt;
+&lt;p&gt;From &lt;a href=&quot;https://the-turing-way.netlify.app/welcome.html&quot;&gt;&lt;em&gt;The Turing Way&lt;/em&gt;&lt;/a&gt; handbook to reproducible, ethical and collaborative data science:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Section on &lt;a href=&quot;https://the-turing-way.netlify.app/communication/aa.html&quot;&gt;&lt;strong&gt;Authorship and Contributions on Academic Articles&lt;/strong&gt;&lt;/a&gt;, with reflections on the ethical aspects of authorship.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;This material is derived from the &lt;a href=&quot;https://doi.org/10.5281/zenodo.5911546&quot; title=&quot;Usher, William, Beltramo, Agnese, Gardumi, Francesco, Martin, Viktoria, &amp;amp; Petrarulo, Luca. (2022). CCG Platform - Body of Knowledge: Review of Good Practice (1.3). Zenodo. https://doi.org/10.5281/zenodo.5911546&quot;&gt;CCG review of good enough practices&lt;/a&gt;, released under a &lt;a href=&quot;https://creativecommons.org/licenses/by/4.0/legalcode&quot;&gt;CC-BY 4.0 license&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</content><author><name>Agnese Beltramo</name></author><category term="Open Science" /><category term="attribution" /><summary type="html">More and more often, contemporary research is conducted by a number of young and senior researchers actively collaborating and contributing to a common project, answering an increasingly multidisplinary range of questions.</summary></entry><entry><title type="html">The u4RIA goals</title><link href="https://climatecompatiblegrowth.github.io/guidelines/principles/2021/12/16/u4ria.html" rel="alternate" type="text/html" title="The u4RIA goals" /><published>2021-12-16T13:00:00+00:00</published><updated>2021-12-16T13:00:00+00:00</updated><id>https://climatecompatiblegrowth.github.io/guidelines/principles/2021/12/16/u4ria</id><content type="html" xml:base="https://climatecompatiblegrowth.github.io/guidelines/principles/2021/12/16/u4ria.html">&lt;p&gt;The u4RIA goals, described in a paper available &lt;a href=&quot;https://dx.doi.org/10.21203/rs.3.rs-311311/v1&quot;&gt;here&lt;/a&gt;,
+provide a set of high-level goals relating to conducting energy system analyses in countries.&lt;/p&gt;
+
+&lt;p&gt;Below I outline a number of practical implications of the 7 goals for which U4RIA is an acronym:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;ubuntu (community)&lt;/li&gt;
+  &lt;li&gt;retrievability&lt;/li&gt;
+  &lt;li&gt;repeatability&lt;/li&gt;
+  &lt;li&gt;reusability&lt;/li&gt;
+  &lt;li&gt;reconstructability&lt;/li&gt;
+  &lt;li&gt;interoperability&lt;/li&gt;
+  &lt;li&gt;auditability&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;An explaination of u4RIA is provided in the following preprint:&lt;/p&gt;
+
+&lt;p&gt;Howells, Mark, Jairo Quiros-Tortos, Robbie Morrison, Holger Rogner, Taco Niet, Luca Petrarulo, Will Usher, William Blyth, Guido Godínez, Luis F Victor, Jam Angulo, Franziska Bock, Eunice Ramos, Francesco Gardumi, Ludwig Hülk, Patrick Van-Hove, Estathios Peteves, Felipe de Leon, Andrea Meza, Thomas Alfstad, Constantinos Taliotis, George Partasides, Nicolina Lindblad, Benjamin Stewart, and Ashish Shrestha.  (10 March 2021).  &lt;a href=&quot;https://www.researchsquare.com/article/rs-311311/v1.pdf&quot;&gt;&lt;em&gt;Energy system analytics and good governance — U4RIA goals of Energy Modelling for Policy Support — Preprint&lt;/em&gt;&lt;/a&gt;.  doi:&lt;a href=&quot;https://dx.doi.org/10.21203/rs.3.rs-311311/v1&quot;&gt;10.21203/rs.3.rs-311311/v1&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;ubuntu-community&quot;&gt;ubuntu (community)&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Involve stakeholders in your project from the beginning&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Design the project to allow transfer of data and code to stakeholders&lt;/li&gt;
+  &lt;li&gt;Involve stakeholders in development of models, assumptions, scenarios and results&lt;/li&gt;
+  &lt;li&gt;Build capacity to better understand, use and promote use of tools, methods, data and results&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;retrievability&quot;&gt;retrievability&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Ensure that data, source code and results can be easily found, accessed, downloaded and viewed&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ensure original data can be accessed upon close of the project&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/guidelines/code/2021/10/21/archiving-code.html&quot;&gt;Archive source code&lt;/a&gt; so that it can be accessed upon close of the project&lt;/li&gt;
+  &lt;li&gt;Copy and archive data that comes from unreliable resources&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/guidelines/data/2021/10/21/publishing-dataset-zenodo.html&quot;&gt;Archive data&lt;/a&gt; (e.g. on Zenodo), register a DOI, and use an appropriate &lt;a href=&quot;/guidelines/data/2021/10/01/licensing-data.html&quot;&gt;data license&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;repeatability&quot;&gt;repeatability&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Ensure that results can be reproduced from data and assumptions, ideally automatically&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Use a workflow management tool (such as &lt;a href=&quot;https://snakemake.readthedocs.io/en/stable/&quot;&gt;snakemake&lt;/a&gt;)
+to automate each of the steps in the analysis&lt;/li&gt;
+  &lt;li&gt;Document which version of each software package is required to run the analysis&lt;/li&gt;
+  &lt;li&gt;Use an environment manager such as &lt;a href=&quot;https://docs.conda.io/en/latest/miniconda.html&quot;&gt;miniconda&lt;/a&gt;,
+&lt;a href=&quot;https://www.docker.com/&quot;&gt;docker&lt;/a&gt;, or &lt;a href=&quot;https://sylabs.io/&quot;&gt;singularity&lt;/a&gt; to ensure that the analysis can
+be easily reused&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;reusability&quot;&gt;reusability&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Ensure the data, results and source code can be used by others&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Document and publish assumptions together with results&lt;/li&gt;
+  &lt;li&gt;Publish data behind results with a permissive &lt;a href=&quot;/guidelines/data/2021/10/01/licensing-data.html&quot;&gt;license&lt;/a&gt; allowing reuse (e.g. CC‑BY‑4.0)&lt;/li&gt;
+  &lt;li&gt;Publish source code under an open-source license (e.g. MIT, Apache‑2.0 etc.)&lt;/li&gt;
+  &lt;li&gt;Publish documentation on how to re-run the analysis&lt;/li&gt;
+  &lt;li&gt;Use &lt;a href=&quot;https://semver.org/&quot;&gt;semantic versioning&lt;/a&gt; to tag your source code&lt;/li&gt;
+  &lt;li&gt;Use version control e.g. &lt;a href=&quot;http://github.com&quot;&gt;git and Github&lt;/a&gt; to track the history of your source code&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;reconstructability&quot;&gt;reconstructability&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Ensure that an entire analysis can be replicated, through documentation of primary data collection, processing, models&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Document the collection and processing of primary data&lt;/li&gt;
+  &lt;li&gt;Adopt a modular approach to analysis which allows interchange of data and models&lt;/li&gt;
+  &lt;li&gt;Use a workflow management system to automate, version and document the generation
+of results from data and models&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;interoperability&quot;&gt;interoperability&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Enable the transfer of data, assumptions and results to other projects, analyses and models&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Do not use proprietary file formats to store data (such as Excel *.xlsx)&lt;/li&gt;
+  &lt;li&gt;Where possible, use csv files, or an open format such as feather, HD5&lt;/li&gt;
+  &lt;li&gt;Use &lt;a href=&quot;https://specs.frictionlessdata.io/tabular-data-package/#language&quot;&gt;Tabular Data Packages&lt;/a&gt;
+which store data in comma-separated values (CSV) format and metadata in a JSON file&lt;/li&gt;
+  &lt;li&gt;Store data in CSV files in long format (e.g. headers for GDP statistics should be
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Country&lt;/code&gt;,&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Parameter&lt;/code&gt;,&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Year&lt;/code&gt;,&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Value&lt;/code&gt; rather than
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Country&lt;/code&gt;,&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;1990&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;1995&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;2000&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;2005&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;2010&lt;/code&gt;)&lt;/li&gt;
+  &lt;li&gt;Use existing standards, for example, adopt ISO conventions for
+&lt;a href=&quot;https://github.com/datasets/country-codes&quot;&gt;country codes&lt;/a&gt;, always use SI units&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;auditability&quot;&gt;auditability&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Work transparently and openly&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Design the project with an audit in mind. How can you change your work patterns to make it easier for an external partners to see what you have done?&lt;/li&gt;
+  &lt;li&gt;Comes for free with many of the steps above.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This post incorporates information originally written by the author under a CC-BY-4.0 license and available at https://github.com/ClimateCompatibleGrowth/data_standards&lt;/p&gt;</content><author><name>Will Usher</name></author><category term="principles" /><summary type="html">The u4RIA goals, described in a paper available here, provide a set of high-level goals relating to conducting energy system analyses in countries.</summary></entry><entry><title type="html">Add zenodo metadata to a Github repository</title><link href="https://climatecompatiblegrowth.github.io/guidelines/code/2021/12/16/add-zenodo-github.html" rel="alternate" type="text/html" title="Add zenodo metadata to a Github repository" /><published>2021-12-16T00:00:00+00:00</published><updated>2021-12-16T00:00:00+00:00</updated><id>https://climatecompatiblegrowth.github.io/guidelines/code/2021/12/16/add-zenodo-github</id><content type="html" xml:base="https://climatecompatiblegrowth.github.io/guidelines/code/2021/12/16/add-zenodo-github.html">&lt;p&gt;You can include a JSON metadata file in your Github repository to automatically populate the
+metadata associated with the archived deposit on Zenodo. This guidelines builds on material available
+in the &lt;a href=&quot;https://developers.zenodo.org/#add-metadata-to-your-github-repository-release&quot;&gt;Zenodo documentation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;To do this create a new file called &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.zenodo.json&lt;/code&gt; in the root folder of your Github repository.&lt;/p&gt;
+
+&lt;p&gt;The contents of the file should look something like this:&lt;/p&gt;
+
+&lt;div class=&quot;language-json highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;title&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Adding zenodo metadata to a Github repository&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;description&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;The guideline document describes how to add metadata to a Github repository&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;license&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;id&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;CC-BY-4.0&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;creators&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+      &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;affiliation&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;KTH Royal Institute of Technology&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+      &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;name&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Will Usher&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+      &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;orcid&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;0000-0001-9367-1791&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;access_right&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;open&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;upload_type&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;publication&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;publication_type&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;other&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Once you’ve added the information to the file, save and commit the changes.&lt;/p&gt;
+
+&lt;p&gt;Now, create a new release on the Github repository, and the new metadata should appear in
+the Zenodo deposit associated with the release.&lt;/p&gt;
+
+&lt;p&gt;More information on the fields you can include can be found in the Zenodo
+&lt;a href=&quot;https://developers.zenodo.org/#representation&quot;&gt;documentation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;You can verify your JSON metadata file with the
+&lt;a href=&quot;https://zenodo.org/schemas/deposits/records/legacyrecord.json&quot;&gt;Zenodo JSON schema&lt;/a&gt;&lt;/p&gt;</content><author><name>Will Usher</name></author><category term="code" /><category term="interoperability" /><category term="reusability" /><category term="retrievability" /><summary type="html">You can include a JSON metadata file in your Github repository to automatically populate the metadata associated with the archived deposit on Zenodo. This guidelines builds on material available in the Zenodo documentation.</summary></entry><entry><title type="html">Develop teaching material</title><link href="https://climatecompatiblegrowth.github.io/guidelines/knowledge/2021/11/18/teaching-kit.html" rel="alternate" type="text/html" title="Develop teaching material" /><published>2021-11-18T12:30:00+00:00</published><updated>2021-11-18T12:30:00+00:00</updated><id>https://climatecompatiblegrowth.github.io/guidelines/knowledge/2021/11/18/teaching-kit</id><content type="html" xml:base="https://climatecompatiblegrowth.github.io/guidelines/knowledge/2021/11/18/teaching-kit.html">&lt;h2 id=&quot;developing-a-course-from-existing-slides&quot;&gt;Developing a course from existing slides&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Prepare the general course information following these &lt;a href=&quot;/guidelines/knowledge/2021/11/09/course-info.html&quot;&gt;guidelines&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Include images and media according to these &lt;a href=&quot;/guidelines/knowledge/2021/11/07/image.html&quot;&gt;guidelines&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Structure, review each lecture according to these &lt;a href=&quot;/guidelines/knowledge/2021/11/06/lecture-structure-slides.html&quot;&gt;guidelines&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;developing-any-other-new-course&quot;&gt;Developing any other new course&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Prepare the general course information following these &lt;a href=&quot;/guidelines/knowledge/2021/11/09/course-info.html&quot;&gt;guidelines&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Include images and media according to these &lt;a href=&quot;/guidelines/knowledge/2021/11/07/image.html&quot;&gt;guidelines&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Structure, review and publish each lecture according to these &lt;a href=&quot;/guidelines/knowledge/2021/11/17/lecture-structure.html&quot;&gt;guidelines&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Francesco Gardumi</name></author><category term="knowledge" /><summary type="html">Developing a course from existing slides</summary></entry><entry><title type="html">Develop a policy brief</title><link href="https://climatecompatiblegrowth.github.io/guidelines/knowledge/2021/11/18/policy-briefs.html" rel="alternate" type="text/html" title="Develop a policy brief" /><published>2021-11-18T08:30:00+00:00</published><updated>2021-11-18T08:30:00+00:00</updated><id>https://climatecompatiblegrowth.github.io/guidelines/knowledge/2021/11/18/policy-briefs</id><content type="html" xml:base="https://climatecompatiblegrowth.github.io/guidelines/knowledge/2021/11/18/policy-briefs.html">&lt;h1 id=&quot;policy-briefs&quot;&gt;Policy briefs&lt;/h1&gt;
+
+&lt;p&gt;Policy briefs are meant to be short and accessible knowledge outputs that condense science in key messages and are used by policy makers.&lt;/p&gt;
+
+&lt;h2 id=&quot;general-indications&quot;&gt;General indications&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;In CCG we aim at publishing one policy brief for every scientific paper and to make it available before the scientific paper is published&lt;/li&gt;
+  &lt;li&gt;Policy briefs are to be published by the authors (upon final approval) on ResearchSquare (or another pre-print server with at least equivalent features)&lt;/li&gt;
+  &lt;li&gt;Policy briefs shall be published under open access licenses (e.g. CC-BY-4.0). For how to choose a license, see &lt;a href=&quot;https://creativecommons.org/share-your-work/&quot;&gt;licenses&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;All briefs will undergo a peer-review process before publication&lt;/li&gt;
+  &lt;li&gt;The structure and review workflow outlined below will apply&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;guidelines-on-structure-and-quality&quot;&gt;Guidelines on structure and quality&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The brief shall be written using the template available here [template] and using Overleaf&lt;/li&gt;
+  &lt;li&gt;The brief shall be 1000-1300 words in total (excluding references)&lt;/li&gt;
+  &lt;li&gt;The language to be used is British English (with ‘z’ spelling). Authors are responsible for thorough spelling and grammar checks&lt;/li&gt;
+  &lt;li&gt;References shall be reported as (Author, Year), e.g. like in the ‘Nature’ referencing style&lt;/li&gt;
+  &lt;li&gt;The content is structured as follows: …
+    &lt;ol&gt;
+      &lt;li&gt;…&lt;/li&gt;
+      &lt;li&gt;…&lt;/li&gt;
+      &lt;li&gt;…&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;review-workflow&quot;&gt;Review workflow&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;The review process shall be handled through (?)&lt;/li&gt;
+  &lt;li&gt;Calls for briefs with different themes will be launched periodically within CCG&lt;/li&gt;
+  &lt;li&gt;The authors write a brief for a particular call, following all the above guidelines, and submit it with the Tag of the call and the naming convention indicated on the submission portal&lt;/li&gt;
+  &lt;li&gt;The brief lands on the desk of the Chief Editor, who checks that:
+    &lt;ul&gt;
+      &lt;li&gt;The theme is in line with the one of the call&lt;/li&gt;
+      &lt;li&gt;All the guidelines for authors are formally respected&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The brief lands then on the desk of the Topic Editor(s), who check(s) that the topic is relevant, novel, conclusive&lt;/li&gt;
+  &lt;li&gt;The brief is sent to at least 1 reviewer (best practice 2), who has 15 days to carry out the review&lt;/li&gt;
+  &lt;li&gt;The authors receive the review(s) and have 15 days to deliver the revised brief&lt;/li&gt;
+  &lt;li&gt;The reviewer(s) check the revisions and, if needed, 6 &amp;amp; 7 are repeated&lt;/li&gt;
+  &lt;li&gt;The Topic Editor(s) accept the final version of the brief&lt;/li&gt;
+  &lt;li&gt;The brief goes to proof-reading and the authors are potentially asked to make the last minor (language) edits to the manuscript in a very short time (within 48 hours)&lt;/li&gt;
+  &lt;li&gt;The brief is published on the pre-print platform&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Francesco Gardumi</name></author><category term="knowledge" /><summary type="html">Policy briefs</summary></entry><entry><title type="html">Structure a lecture for new courses</title><link href="https://climatecompatiblegrowth.github.io/guidelines/knowledge/2021/11/17/lecture-structure.html" rel="alternate" type="text/html" title="Structure a lecture for new courses" /><published>2021-11-17T08:30:00+00:00</published><updated>2021-11-17T08:30:00+00:00</updated><id>https://climatecompatiblegrowth.github.io/guidelines/knowledge/2021/11/17/lecture-structure</id><content type="html" xml:base="https://climatecompatiblegrowth.github.io/guidelines/knowledge/2021/11/17/lecture-structure.html">&lt;h2 id=&quot;general-features&quot;&gt;General features&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;GitHub is used to store and version-track all the teaching material and to render it as an online website&lt;/li&gt;
+  &lt;li&gt;For each Learning Kit, all the material for the Theory Lectures, the Hands-on exercise and the Tutorial should be written using Markdown. Documentation and syntax of Markdown available here &lt;a href=&quot;https://commonmark.org/&quot;&gt;markdown&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A standard folder structure is used to store the course material on GitHub, as per image below&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;├── LICENSE
+├── README.md
+├── block_1
+│   ├── lecture_1.md
+│   ├── lecture_2.md
+│   ├── lecture_...
+│   ├── absorption.md
+│   └── quiz_1.md
+├── block_2
+│   ├── lecture_1.md
+│   ├── lecture_2.md
+│   ├── absorption.md
+│   └── quiz_1.md
+├── block_...
+├── tutorials.md
+└── exercises.md
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;description-of-the-folder-structure&quot;&gt;Description of the folder structure&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;LICENSE&lt;/code&gt;: contains a text file with the complete licensing information. For the choice and use of licenses, refer to &lt;a href=&quot;https://creativecommons.org/share-your-work/&quot;&gt;licenses&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;README.md&lt;/code&gt;: It is a markdown file including all the course information, collected according to these &lt;a href=&quot;/guidelines/knowledge/2021/11/09/course-info.html&quot;&gt;guidelines&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;img&lt;/code&gt;: it is a sub-folder created for each lecture and containing the original files of all the images used in the lecture&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;lecture_x.bib&lt;/code&gt;: it is a file containing the bibliography of the lecture, as exported from the referencing tool (e.g. Mendeley or Zotero)&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;lecture_x.md&lt;/code&gt;: it contains the text to be shown in the lecture (titles, content). An example for this is available here &lt;a href=&quot;https://github.com/ClimateCompatibleGrowth/course_test/blob/main/block_1/lecture_1.md&quot;&gt;example&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;absorption.md&lt;/code&gt;:&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;quiz_x.md&lt;/code&gt;: contains the questions of the quiz for lecture x&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;reading_x.md&lt;/code&gt;: contains the references to the reading material for lecture x, compiled using an official referencing style&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Francesco Gardumi</name></author><category term="knowledge" /><summary type="html">General features</summary></entry><entry><title type="html">Prepare the general course information</title><link href="https://climatecompatiblegrowth.github.io/guidelines/knowledge/2021/11/09/course-info.html" rel="alternate" type="text/html" title="Prepare the general course information" /><published>2021-11-09T16:10:00+00:00</published><updated>2021-11-09T16:10:00+00:00</updated><id>https://climatecompatiblegrowth.github.io/guidelines/knowledge/2021/11/09/course-info</id><content type="html" xml:base="https://climatecompatiblegrowth.github.io/guidelines/knowledge/2021/11/09/course-info.html">&lt;h2 id=&quot;information-to-be-collected&quot;&gt;Information to be collected&lt;/h2&gt;
+
+&lt;p&gt;Collect the following information on the course in text format&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Course full name&lt;/li&gt;
+  &lt;li&gt;Course duration, in hours. It should be a single integer, including the number of hours roughly needed to go through all the theory and the hands-on sessions. Consider that it should take approximately 1 hour to go through each lecture and related quiz, and 1 hour to go through each hands-on session and related quiz.&lt;/li&gt;
+  &lt;li&gt;Educational level (choosing between Beginner, Intermediate and Advanced)&lt;/li&gt;
+  &lt;li&gt;2-3 Sentence presentation of the main objective of the course&lt;/li&gt;
+  &lt;li&gt;Up to 4 Intended Learning outcomes (ILOs) for the course&lt;/li&gt;
+  &lt;li&gt;Pre-requisites for the course (if any)&lt;/li&gt;
+  &lt;li&gt;100-200 words abstract of the course&lt;/li&gt;
+  &lt;li&gt;Non mandatory: 2 minutes introduction video, licensed. For information on how to license a video, see &lt;a href=&quot;https://creativecommons.org/share-your-work/&quot;&gt;licenses&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Francesco Gardumi</name></author><category term="knowledge" /><summary type="html">Information to be collected</summary></entry><entry><title type="html">Include an image in a lecture</title><link href="https://climatecompatiblegrowth.github.io/guidelines/knowledge/2021/11/07/image.html" rel="alternate" type="text/html" title="Include an image in a lecture" /><published>2021-11-07T00:00:00+00:00</published><updated>2021-11-07T00:00:00+00:00</updated><id>https://climatecompatiblegrowth.github.io/guidelines/knowledge/2021/11/07/image</id><content type="html" xml:base="https://climatecompatiblegrowth.github.io/guidelines/knowledge/2021/11/07/image.html">&lt;h2 id=&quot;general-indications&quot;&gt;General indications&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Use only images which you are the copyright owner of, or which have an open access license&lt;/li&gt;
+  &lt;li&gt;You may find large open access image databases for instance on &lt;a href=&quot;https://search.creativecommons.org/&quot;&gt;Creative-Commons&lt;/a&gt; and &lt;a href=&quot;https://unsplash.com/s/photos/open-access&quot;&gt;Unsplash&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Always attribute every image and report the licensing information&lt;/li&gt;
+  &lt;li&gt;Do not use images for which you do not know who the copyright owner is and what license they are available under&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;using-an-image&quot;&gt;Using an image&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;With an image, you must always report its metadata (source, author, license, link to the original).
+    &lt;ul&gt;
+      &lt;li&gt;If you are using it on a presentation, you may add the information directly on the slide.&lt;/li&gt;
+      &lt;li&gt;If you are storing it, make sure you store the metadata in a relevant file and directory. More information about this &lt;a href=&quot;/guidelines/knowledge/2021/11/17/lecture-structure.html&quot;&gt;here&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;For the choice of the license, see &lt;a href=&quot;https://creativecommons.org/share-your-work/&quot;&gt;licenses&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Francesco Gardumi</name></author><category term="knowledge" /><summary type="html">General indications</summary></entry><entry><title type="html">Structure a lecture for existing courses</title><link href="https://climatecompatiblegrowth.github.io/guidelines/knowledge/2021/11/06/lecture-structure-slides.html" rel="alternate" type="text/html" title="Structure a lecture for existing courses" /><published>2021-11-06T00:00:00+00:00</published><updated>2021-11-06T00:00:00+00:00</updated><id>https://climatecompatiblegrowth.github.io/guidelines/knowledge/2021/11/06/lecture-structure-slides</id><content type="html" xml:base="https://climatecompatiblegrowth.github.io/guidelines/knowledge/2021/11/06/lecture-structure-slides.html">&lt;h2 id=&quot;preparing-the-structure-of-a-lecture&quot;&gt;Preparing the structure of a lecture&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Use the CCG template&lt;/li&gt;
+  &lt;li&gt;In the title slide, include starting from the bottom: title of the lecture (in black capital letters), lecture number (in white capital letters), name of the course (in smaller black characters at the top)&lt;/li&gt;
+  &lt;li&gt;In the second slide, introduce 4 Intended Learning Outcomes, one for each mini-lecture&lt;/li&gt;
+  &lt;li&gt;Divide your lecture material in 4 mini-lectures with: 5 slides of content and one slide of references each (the latter only if there are any relevant references)&lt;/li&gt;
+  &lt;li&gt;In each slide, add between 150 and 300 words of speaker notes, in plain, understandable English and avoiding acronyms (mind that the text will be read by a text-to-speach app)&lt;/li&gt;
+  &lt;li&gt;For adding images, follow these &lt;a href=&quot;/guidelines/knowledge/2021/11/07/image.html&quot;&gt;guidelines&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;workflow-for-the-review-and-publication-of-the-lecture&quot;&gt;Workflow for the review and publication of the lecture&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Once you have completed your lecture, deliver it for review of language and content&lt;/li&gt;
+  &lt;li&gt;Once you have implemented the feedback from point 1, deliver the lecture for addition of the audio in each slide&lt;/li&gt;
+  &lt;li&gt;Once the audio is added, deliver the lecture to the course manager of your track for upload to OpenLearn&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Francesco Gardumi</name></author><category term="knowledge" /><summary type="html">Preparing the structure of a lecture</summary></entry></feed>
