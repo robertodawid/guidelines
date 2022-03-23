@@ -8,17 +8,18 @@ tags: metadata, referencing, attribution, release, licensing, version control, w
 ---
 
 
-Referencing is basically to acknowledge all sources of information or work from other authors that you used when creating any writing material. Referencing is usually divided into two parts: a citation and a reference. A citation is a note or a number within your work's body that acknowledges another person's works. A reference expands on a citation, which encompasses all the necessary details to locate the source of another person's work or idea.
+Referencing is a formal process of acknowledging all sources of information or work from other authors that you used when creating any original material. Referencing consists of two parts: a citation and a reference. The citation is a note, a number, or an identifier of the source, within your work's text that acknowledges other authors' works in the relevant section. The reference expands on the citation and encompasses the source details that inform its location.
  
 ### Why is referencing important?
-Referencing is essential in producing your academic work or research. It allows readers to perceive how you did your research. Referencing gives the readers supporting evidence of how widely you reviewed the topic. It also provides the location of the sources you mentioned in your work; as a result, you help fellow researchers locate the cited references easily. Most importantly, you avoid plagiarism by acknowledging other persons' work and ideas.
+Referencing is essential in producing your original work or research. It gives the readers supporting evidence of how widely you reviewed the topic and how you support your arguments. It also provides the location of the sources you mentioned in your work; as a result, you help fellow researchers locate the cited references easily. 
+Importantly, it helps avoid plagiarism by acknowledging other authors' work and ideas.
 
 ### What do you need to write a reference?
 
-To write a reference, you need the bibliographic information from the source. Bibliographic information is the individual information used to describe and find a particular work, such as a book, journal article, or internet source. There are four essential elements of bibliographic information that a reference should have. These elements include the person or group of people who created the work, the year of publication, and where it was published. Nowadays, writing a citation and a reference has become more accessible by using guidelines for referencing and apps/tools.
+To add a reference, you need the bibliographic information of the source. Bibliographic information is the individual information used to describe and find a particular work, such as a book, journal article, or internet source. A reference should have four essential elements of bibliographic information: 1) the author or group of authors who created the work; 2) the year of publication; 3) title; and 4) where it was published. There are several ways of presenting the bibliographic information, known as "referencing style."
 
 ### Reference style.
-There is a wide range of reference styles commonly used. Each style has its unique formatting guidelines. The selected style will depend on the requirements of a particular publication, such as books, magazines or journal articles, to name a few. The most common styles with simple examples for referencing are listed below. 
+There is a wide range of reference styles commonly used. Each style has its unique formatting guidelines. The selected style will depend on the requirements of a particular publication, such as books, magazines, or journal articles, to name a few. Also, the in-text citation will vary depending on the referencing style. The most common styles with simple examples for referencing are listed below.
 
 #### APA (American Psychological Association)
 Reference [guideline](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/general_format.html).
@@ -47,8 +48,8 @@ Reference [guideline](https://libguides.mq.edu.au/referencing/Oxford#:~:text=Oxf
 
 
 ### Tools/Reference management software
-Using a reference management software makes easier to manage references. These tools can help you to 1) save time since often writing references is a time consuming process, and 2) help you to format correctly the references according to a specific style.
-There are several reference management software including commercial license-base, and others are open-freely tools. Selecting the programs/tools depends on you, and your specific needs. Different management software are listed below.
+Nowadays, adding and managing citations and references has become more practical by using automatic referencing management software. These tools can 1) save you time when adding and managing references, a process that can be time-consuming, and 2) allow you to format the references correctly according to a specific style.
+Open tools exist in the pool of reference management software, and others require a commercial license. Selecting the programs/tools depends on your specific needs or can be influenced by choices adopted in your work team. Different management software is listed below.
 
 + [**EndNote**](https://endnote.com/)
 
